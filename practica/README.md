@@ -2,7 +2,7 @@
 
 ## ventas de consolas de videojuegos 
 
-### por empresa
+### empresa
 - frabricante_id
 - ventas de consolas de sobremesa_id
 - ventas de consolas portatiles_id 
