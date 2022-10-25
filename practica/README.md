@@ -30,3 +30,4 @@
 - plataforma_id 
 - año de lanzamiento_id
 
+[diagrama](./img/ModeloRelacionalBD.jpg)
